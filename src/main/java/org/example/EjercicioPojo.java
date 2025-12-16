@@ -91,3 +91,5 @@ public class EjercicioPojo {
         }
     }
 }
+
+//Aunque esté bien el Arraylist no es lo que pidió en la tarea :(.
