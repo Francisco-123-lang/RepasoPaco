@@ -20,7 +20,6 @@ class User {
     public String getNif() {
         return nif;
     }
-
     public void setNif(String nif) {
         this.nif = nif;
     }
@@ -42,7 +41,6 @@ class User {
     public LocalDate getBirthdate() {
         return birthdate;
     }
-
     public void setBirthdate(LocalDate birthdate) {
         this.birthdate = birthdate;
     }
